@@ -1,0 +1,3 @@
+= 2026-08-15 - Initial org profile
+
+Public GitHub profile README, SVG mark, and maintainer notes for the `{org}/.github` repo.

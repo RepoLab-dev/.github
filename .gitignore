@@ -1,0 +1,10 @@
+*
+!.gitignore
+!profile/
+!profile/**
+!assets/
+!assets/**
+!README.md
+!CHANGELOG.adoc
+!changelog-details/
+!changelog-details/**
