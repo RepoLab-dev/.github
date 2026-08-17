@@ -1,5 +1,9 @@
 = Changelog
 
+== 2026-08-17
+
+* Profile image URL uses `RepoLab-dev`. Org homepage is `repolabs.dev`.
+
 == 2026-08-15
 
 * Initial public `.github` profile, logo mark, and org brand assets for RepoLabs.
