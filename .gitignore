@@ -5,6 +5,8 @@
 !assets/
 !assets/**
 !README.md
+!.gitmodules
+!agent-rules
 !CHANGELOG.adoc
 !changelog-details/
 !changelog-details/**
