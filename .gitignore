@@ -10,3 +10,8 @@
 !CHANGELOG.adoc
 !changelog-details/
 !changelog-details/**
+!/.github/
+!/.github/workflows/
+!/.github/workflows/encoding-guard.yml
+!/.editorconfig
+!/.gitattributes
