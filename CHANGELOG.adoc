@@ -2,7 +2,7 @@
 
 == 2026-08-17
 
-* Profile image URL uses `RepoLab-dev`. Org homepage is `repolabs.dev`.
+* Profile image URL uses `RepoLab-dev`.
 
 == 2026-08-15
 
